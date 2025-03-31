@@ -7,7 +7,8 @@ import java.util.GregorianCalendar;
 import java.util.Scanner;
 
 public class Principal {
-
+   //EL CODIGO FUNCIONA DE MANERA CORRECTA Y NO TIENE ALGUN FALLO
+    // COMMIT DE ISRAEL ORELLANA A EINAR KAALHUS
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
